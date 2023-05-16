@@ -15,4 +15,5 @@ __all__ = [
     "BertWithTabular",
     "RobertaWithTabular",
     "DistilBertWithTabular",
+    "ASTWithTabular",
 ]
